@@ -1,10 +1,12 @@
-{
+﻿{
     "country":  "us",
     "AppSourceCopMandatoryAffixes":  [
-        "<affix>"
-    ],
+                                         "cust"
+                                     ],
     "appFolders":  [
-    ],
+                       "My App"
+                   ],
     "testFolders":  [
-    ]
+                        "My App.Test"
+                    ]
 }
